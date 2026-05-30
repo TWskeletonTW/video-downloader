@@ -1,6 +1,9 @@
 # 網頁版（不放上此作品庫）
 web/
 
+# 開發與維護筆記（本機保留，不放上作品庫）
+DEVELOPMENT.md
+
 # Python
 __pycache__/
 *.py[cod]

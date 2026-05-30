@@ -68,13 +68,8 @@ pyinstaller --onefile --windowed --icon=app.ico downloader.py
 downloader.py      主程式（單檔 GUI 應用）
 requirements.txt   Python 套件需求
 README.md          專案說明（本檔）
-DEVELOPMENT.md     開發與維護筆記（設計規則、版本歷史、測試清單）
 LICENSE            MIT 授權
 ```
-
-## 開發筆記
-
-詳細的設計規則、版本歷史、執行緒模型、測試清單與已知限制，整理在 [DEVELOPMENT.md](DEVELOPMENT.md)。
 
 ## 授權
 
