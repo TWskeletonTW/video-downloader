@@ -1,0 +1,29 @@
+# 網頁版（不放上此作品庫）
+web/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# PyInstaller 打包產物
+build/
+dist/
+*.spec
+
+# 外部執行檔與資源（請使用者自行準備）
+ffmpeg.exe
+ffprobe.exe
+
+# 下載輸出與紀錄
+downloads/
+下載紀錄_*.txt
+
+# 編輯器 / 系統
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
