@@ -22,9 +22,7 @@
 
 ## 螢幕截圖
 
-> 在這裡放一張程式執行畫面（建議放在 `docs/screenshot.png`）：
->
-> `![程式畫面](docs/screenshot.png)`
+![程式畫面](docs/screenshot.png)
 
 ## 技術架構
 
